@@ -1,0 +1,14 @@
+C:\Users\alenm\source\repos\SumOfEven\SumOfEven\bin\Debug\net10.0\SumOfEven.exe
+C:\Users\alenm\source\repos\SumOfEven\SumOfEven\bin\Debug\net10.0\SumOfEven.deps.json
+C:\Users\alenm\source\repos\SumOfEven\SumOfEven\bin\Debug\net10.0\SumOfEven.runtimeconfig.json
+C:\Users\alenm\source\repos\SumOfEven\SumOfEven\bin\Debug\net10.0\SumOfEven.dll
+C:\Users\alenm\source\repos\SumOfEven\SumOfEven\bin\Debug\net10.0\SumOfEven.pdb
+C:\Users\alenm\source\repos\SumOfEven\SumOfEven\obj\Debug\net10.0\SumOfEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alenm\source\repos\SumOfEven\SumOfEven\obj\Debug\net10.0\SumOfEven.AssemblyInfoInputs.cache
+C:\Users\alenm\source\repos\SumOfEven\SumOfEven\obj\Debug\net10.0\SumOfEven.AssemblyInfo.cs
+C:\Users\alenm\source\repos\SumOfEven\SumOfEven\obj\Debug\net10.0\SumOfEven.csproj.CoreCompileInputs.cache
+C:\Users\alenm\source\repos\SumOfEven\SumOfEven\obj\Debug\net10.0\SumOfEven.dll
+C:\Users\alenm\source\repos\SumOfEven\SumOfEven\obj\Debug\net10.0\refint\SumOfEven.dll
+C:\Users\alenm\source\repos\SumOfEven\SumOfEven\obj\Debug\net10.0\SumOfEven.pdb
+C:\Users\alenm\source\repos\SumOfEven\SumOfEven\obj\Debug\net10.0\SumOfEven.genruntimeconfig.cache
+C:\Users\alenm\source\repos\SumOfEven\SumOfEven\obj\Debug\net10.0\ref\SumOfEven.dll
