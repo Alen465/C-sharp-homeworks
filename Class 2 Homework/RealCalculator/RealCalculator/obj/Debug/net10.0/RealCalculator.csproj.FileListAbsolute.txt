@@ -1,0 +1,14 @@
+C:\Users\alenm\source\repos\RealCalculator\RealCalculator\bin\Debug\net10.0\RealCalculator.exe
+C:\Users\alenm\source\repos\RealCalculator\RealCalculator\bin\Debug\net10.0\RealCalculator.deps.json
+C:\Users\alenm\source\repos\RealCalculator\RealCalculator\bin\Debug\net10.0\RealCalculator.runtimeconfig.json
+C:\Users\alenm\source\repos\RealCalculator\RealCalculator\bin\Debug\net10.0\RealCalculator.dll
+C:\Users\alenm\source\repos\RealCalculator\RealCalculator\bin\Debug\net10.0\RealCalculator.pdb
+C:\Users\alenm\source\repos\RealCalculator\RealCalculator\obj\Debug\net10.0\RealCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alenm\source\repos\RealCalculator\RealCalculator\obj\Debug\net10.0\RealCalculator.AssemblyInfoInputs.cache
+C:\Users\alenm\source\repos\RealCalculator\RealCalculator\obj\Debug\net10.0\RealCalculator.AssemblyInfo.cs
+C:\Users\alenm\source\repos\RealCalculator\RealCalculator\obj\Debug\net10.0\RealCalculator.csproj.CoreCompileInputs.cache
+C:\Users\alenm\source\repos\RealCalculator\RealCalculator\obj\Debug\net10.0\RealCalculator.dll
+C:\Users\alenm\source\repos\RealCalculator\RealCalculator\obj\Debug\net10.0\refint\RealCalculator.dll
+C:\Users\alenm\source\repos\RealCalculator\RealCalculator\obj\Debug\net10.0\RealCalculator.pdb
+C:\Users\alenm\source\repos\RealCalculator\RealCalculator\obj\Debug\net10.0\RealCalculator.genruntimeconfig.cache
+C:\Users\alenm\source\repos\RealCalculator\RealCalculator\obj\Debug\net10.0\ref\RealCalculator.dll

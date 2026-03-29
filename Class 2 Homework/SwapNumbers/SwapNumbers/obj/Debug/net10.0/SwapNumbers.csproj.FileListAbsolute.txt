@@ -1,0 +1,14 @@
+C:\Users\alenm\source\repos\SwapNumbers\SwapNumbers\bin\Debug\net10.0\SwapNumbers.exe
+C:\Users\alenm\source\repos\SwapNumbers\SwapNumbers\bin\Debug\net10.0\SwapNumbers.deps.json
+C:\Users\alenm\source\repos\SwapNumbers\SwapNumbers\bin\Debug\net10.0\SwapNumbers.runtimeconfig.json
+C:\Users\alenm\source\repos\SwapNumbers\SwapNumbers\bin\Debug\net10.0\SwapNumbers.dll
+C:\Users\alenm\source\repos\SwapNumbers\SwapNumbers\bin\Debug\net10.0\SwapNumbers.pdb
+C:\Users\alenm\source\repos\SwapNumbers\SwapNumbers\obj\Debug\net10.0\SwapNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alenm\source\repos\SwapNumbers\SwapNumbers\obj\Debug\net10.0\SwapNumbers.AssemblyInfoInputs.cache
+C:\Users\alenm\source\repos\SwapNumbers\SwapNumbers\obj\Debug\net10.0\SwapNumbers.AssemblyInfo.cs
+C:\Users\alenm\source\repos\SwapNumbers\SwapNumbers\obj\Debug\net10.0\SwapNumbers.csproj.CoreCompileInputs.cache
+C:\Users\alenm\source\repos\SwapNumbers\SwapNumbers\obj\Debug\net10.0\SwapNumbers.dll
+C:\Users\alenm\source\repos\SwapNumbers\SwapNumbers\obj\Debug\net10.0\refint\SwapNumbers.dll
+C:\Users\alenm\source\repos\SwapNumbers\SwapNumbers\obj\Debug\net10.0\SwapNumbers.pdb
+C:\Users\alenm\source\repos\SwapNumbers\SwapNumbers\obj\Debug\net10.0\SwapNumbers.genruntimeconfig.cache
+C:\Users\alenm\source\repos\SwapNumbers\SwapNumbers\obj\Debug\net10.0\ref\SwapNumbers.dll
