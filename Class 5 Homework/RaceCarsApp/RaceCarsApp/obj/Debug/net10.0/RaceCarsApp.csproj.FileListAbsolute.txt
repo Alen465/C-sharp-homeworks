@@ -1,0 +1,14 @@
+C:\Users\alenm\source\repos\RaceCarsApp\RaceCarsApp\bin\Debug\net10.0\RaceCarsApp.exe
+C:\Users\alenm\source\repos\RaceCarsApp\RaceCarsApp\bin\Debug\net10.0\RaceCarsApp.deps.json
+C:\Users\alenm\source\repos\RaceCarsApp\RaceCarsApp\bin\Debug\net10.0\RaceCarsApp.runtimeconfig.json
+C:\Users\alenm\source\repos\RaceCarsApp\RaceCarsApp\bin\Debug\net10.0\RaceCarsApp.dll
+C:\Users\alenm\source\repos\RaceCarsApp\RaceCarsApp\bin\Debug\net10.0\RaceCarsApp.pdb
+C:\Users\alenm\source\repos\RaceCarsApp\RaceCarsApp\obj\Debug\net10.0\RaceCarsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alenm\source\repos\RaceCarsApp\RaceCarsApp\obj\Debug\net10.0\RaceCarsApp.AssemblyInfoInputs.cache
+C:\Users\alenm\source\repos\RaceCarsApp\RaceCarsApp\obj\Debug\net10.0\RaceCarsApp.AssemblyInfo.cs
+C:\Users\alenm\source\repos\RaceCarsApp\RaceCarsApp\obj\Debug\net10.0\RaceCarsApp.csproj.CoreCompileInputs.cache
+C:\Users\alenm\source\repos\RaceCarsApp\RaceCarsApp\obj\Debug\net10.0\RaceCarsApp.dll
+C:\Users\alenm\source\repos\RaceCarsApp\RaceCarsApp\obj\Debug\net10.0\refint\RaceCarsApp.dll
+C:\Users\alenm\source\repos\RaceCarsApp\RaceCarsApp\obj\Debug\net10.0\RaceCarsApp.pdb
+C:\Users\alenm\source\repos\RaceCarsApp\RaceCarsApp\obj\Debug\net10.0\RaceCarsApp.genruntimeconfig.cache
+C:\Users\alenm\source\repos\RaceCarsApp\RaceCarsApp\obj\Debug\net10.0\ref\RaceCarsApp.dll
