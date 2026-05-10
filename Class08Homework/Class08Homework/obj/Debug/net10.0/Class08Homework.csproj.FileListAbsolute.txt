@@ -1,0 +1,14 @@
+C:\Users\alenm\source\repos\Class08Homework\Class08Homework\bin\Debug\net10.0\Class08Homework.exe
+C:\Users\alenm\source\repos\Class08Homework\Class08Homework\bin\Debug\net10.0\Class08Homework.deps.json
+C:\Users\alenm\source\repos\Class08Homework\Class08Homework\bin\Debug\net10.0\Class08Homework.runtimeconfig.json
+C:\Users\alenm\source\repos\Class08Homework\Class08Homework\bin\Debug\net10.0\Class08Homework.dll
+C:\Users\alenm\source\repos\Class08Homework\Class08Homework\bin\Debug\net10.0\Class08Homework.pdb
+C:\Users\alenm\source\repos\Class08Homework\Class08Homework\obj\Debug\net10.0\Class08Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alenm\source\repos\Class08Homework\Class08Homework\obj\Debug\net10.0\Class08Homework.AssemblyInfoInputs.cache
+C:\Users\alenm\source\repos\Class08Homework\Class08Homework\obj\Debug\net10.0\Class08Homework.AssemblyInfo.cs
+C:\Users\alenm\source\repos\Class08Homework\Class08Homework\obj\Debug\net10.0\Class08Homework.csproj.CoreCompileInputs.cache
+C:\Users\alenm\source\repos\Class08Homework\Class08Homework\obj\Debug\net10.0\Class08Homework.dll
+C:\Users\alenm\source\repos\Class08Homework\Class08Homework\obj\Debug\net10.0\refint\Class08Homework.dll
+C:\Users\alenm\source\repos\Class08Homework\Class08Homework\obj\Debug\net10.0\Class08Homework.pdb
+C:\Users\alenm\source\repos\Class08Homework\Class08Homework\obj\Debug\net10.0\Class08Homework.genruntimeconfig.cache
+C:\Users\alenm\source\repos\Class08Homework\Class08Homework\obj\Debug\net10.0\ref\Class08Homework.dll
